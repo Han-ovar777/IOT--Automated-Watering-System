@@ -36,7 +36,7 @@ Windows 10 [ Recommended System ]
 
 
 🌌 Screenshot:
-       ![IMG-20200322-WA0039](https://user-images.githubusercontent.com/83410938/165538407-ccaa1aea-66f7-4022-abf5-eb08361392cb.jpeg)
+![IMG-20200322-WA0039](https://user-images.githubusercontent.com/83410938/165538407-ccaa1aea-66f7-4022-abf5-eb08361392cb.jpeg)
 
 
 
