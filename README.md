@@ -48,7 +48,7 @@ In this project we have defined different modules to enable watering system succ
 Expressif. It combined features of WIFI access point and station + microcontroller and uses 
 simple LUA based programming language.
 
-              ![Capture](https://user-images.githubusercontent.com/83410938/165542703-e9feeb52-1b60-45fe-b9ff-77f64e6fb805.JPG)
+![Capture](https://user-images.githubusercontent.com/83410938/165542703-e9feeb52-1b60-45fe-b9ff-77f64e6fb805.JPG)
                      
 
 
