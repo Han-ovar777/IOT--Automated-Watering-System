@@ -86,11 +86,17 @@ with DMA.
 
 ➢ Soil Moisture Sensor Module (YL-69) 
   • Soil Moisture Sensor as the name suggest ,can detect amount of moisture in soil (roots of a plant).
+  
   • It is a low-tech sensor. 
-  • This sensor is compatible with Arduino UNO, Arduino mega2560,                Arduino NANO etc. 
+  
+  • This sensor is compatible with Arduino UNO, Arduino mega2560
+  
  • Strictly Speaking moisture sensor does not measure moisture but measures conductivity or resistivity of soil. 
+ 
  • Moisture Sensor has two probes to pass current through the soil. It then reads resistance(conductance) in the soil.
+ 
  • Less moisture (water) in soil results in higher resistance i.e. dry soil. 
+ 
 • More moisture (water) in soil results in lesser resistance and sensor thus relates  moisture content. 
 
 
