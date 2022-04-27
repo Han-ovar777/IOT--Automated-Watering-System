@@ -44,12 +44,15 @@ Windows 10 [ Recommended System ]
 Basic Modules:
 In this project we have defined different modules to enable watering system successful manner.
 
-1)Arduino UNO:It is a microcontroller board developed by Arduino.cc and based on Atmega328. Electronic devices are becoming compact, flexible and cheap that are capable of doing more function as compared to their predecessors that happened to cover more space, turned out costly with the ability to perform fewer functions.
+1) Arduino UNO:It is a microcontroller board developed by Arduino.cc and based on Atmega328. 
+Electronic devices are becoming compact, flexible and cheap that are capable of doing more function 
+as compared to their predecessors that happened to cover more space, turned out costly with the ability to perform
+fewer functions.
 
                                    
 
 
-2)MOISTURE SENSOR: Soil moisture sensors measure the water content in soil. A soil moisture probe is made up of multiple soil moisture sensors. Technologies commonly used in soil moisture sensors include: 
+2) MOISTURE SENSOR: Soil moisture sensors measure the water content in soil. A soil moisture probe is made up of multiple soil moisture sensors. Technologies commonly used in soil moisture sensors include: 
 - Frequency domain sensor such as a capacitance sensor.
 -Neutron moisture gauges, utilize the moderator properties of water for neutrons.  
 -Electrical resistance of the soil.
@@ -62,7 +65,7 @@ The water pump is used to artificially supply water for a particular task. It ca
 
 
 
-4)Wi-Fi Module ESP8266:
+4) Wi-Fi Module ESP8266:
 It is also known as a system-on-chip (SoC) and comes with a 32-bit Tensilica microcontroller, antenna switches, RF balun, power amplifier, standard digital peripheral Interfaces, low noise receive amplifier, power management module and filter capability.
 • The processor is based on Tensilica Xtensa Diamond Standard 106Micro and runs at 80 MHz.
 
@@ -79,7 +82,7 @@ with DMA.
 
 
 
-3.3.2 Working of Components:  
+ Working of Components:  
 
 ➢ Soil Moisture Sensor Module (YL-69) 
   • Soil Moisture Sensor as the name suggest ,can detect amount of moisture in soil (roots of a plant).
