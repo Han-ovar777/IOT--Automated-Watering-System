@@ -36,7 +36,7 @@ Windows 10 [ Recommended System ]
 
 
 🌌 Screenshot:
-![IMG-20200322-WA0039](https://user-images.githubusercontent.com/83410938/165538407-ccaa1aea-66f7-4022-abf5-eb08361392cb.jpeg)
+                     ![IMG-20200322-WA0039](https://user-images.githubusercontent.com/83410938/165538407-ccaa1aea-66f7-4022-abf5-eb08361392cb.jpeg)
 
 
 
@@ -44,12 +44,12 @@ Windows 10 [ Recommended System ]
 Basic Modules:
 In this project we have defined different modules to enable watering system successful manner.
 
-1) Arduino UNO:It is a microcontroller board developed by Arduino.cc and based on Atmega328. 
-Electronic devices are becoming compact, flexible and cheap that are capable of doing more function 
-as compared to their predecessors that happened to cover more space, turned out costly with the ability to perform
-fewer functions.
+1) NODE MCU : NodeMCU Dev Board is based on widely explored esp8266 System on Chip from 
+Expressif. It combined features of WIFI access point and station + microcontroller and uses 
+simple LUA based programming language.
 
-                                   
+              ![Capture](https://user-images.githubusercontent.com/83410938/165542703-e9feeb52-1b60-45fe-b9ff-77f64e6fb805.JPG)
+                     
 
 
 2) MOISTURE SENSOR: Soil moisture sensors measure the water content in soil. A soil moisture probe is made up of multiple soil moisture sensors. Technologies commonly used in soil moisture sensors include: 
@@ -57,29 +57,22 @@ fewer functions.
 -Neutron moisture gauges, utilize the moderator properties of water for neutrons.  
 -Electrical resistance of the soil.
                                                
+![s](https://user-images.githubusercontent.com/83410938/165542727-052f69ed-8f25-40a6-939b-ebd72574fe44.JPG)
 
 
 
-3)WATER PUMP:
+3) WATER PUMP:
 The water pump is used to artificially supply water for a particular task. It can be electronically controlled by interfacing it to a microcontroller. It can be triggered ON/OFF by sending signals as required. The process of artificially supplying water is known as pumping. There are many varieties of water pumps used. This project employs the use of a small water pump which is connected to a H-Bridge.
 
+![dd](https://user-images.githubusercontent.com/83410938/165542746-9d8bcab9-b75d-4c59-a919-88868b78c147.JPG)
 
 
 4) Wi-Fi Module ESP8266:
 It is also known as a system-on-chip (SoC) and comes with a 32-bit Tensilica microcontroller, antenna switches, RF balun, power amplifier, standard digital peripheral Interfaces, low noise receive amplifier, power management module and filter capability.
-• The processor is based on Tensilica Xtensa Diamond Standard 106Micro and runs at 80 MHz.
 
-• It incorporates 64 KiB boot ROM, 80 KiB user data RAM and 32 KiB instruction RAM.
-
-• It supports Wi-Fi 802.11 b/g/n around 2.4 GHz and other features including 16 GPIO, InterIntegrated Circuit (I²C), Serial Peripheral Interface (SPI), 10-bit ADC, and I²S interfaces 
-with DMA.
+![dddd](https://user-images.githubusercontent.com/83410938/165542758-913a80b1-8686-41d8-a944-2030f3cef2a1.JPG)
 
                                
-
-• External QSPI flash memory is accessed through SPI and supports up to 16 MiB and 512 KiB to 4 MiB is initially included in the module.
-• It is a major development in terms of wireless communication with little circuitry. and contains onboard regulator that helps in providing 3.3V consistent power to the board.
-• It supports APSD which makes it an ideal choice for VoIP applications and Bluetooth interfaces
-
 
 
  Working of Components:  
@@ -100,6 +93,7 @@ with DMA.
 • More moisture (water) in soil results in lesser resistance and sensor thus relates  moisture content. 
 
 
+![dddddddd](https://user-images.githubusercontent.com/83410938/165542771-5ff140e1-bf8f-42b4-8db8-7e543bd1301e.JPG)
 
 
 
